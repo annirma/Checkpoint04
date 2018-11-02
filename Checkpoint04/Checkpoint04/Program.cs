@@ -8,8 +8,9 @@ namespace Checkpoint04
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Best movies ever!");
-            Console.WriteLine("Instant Extermination");
             Console.WriteLine("Fist of Jeopardy");
+            Console.WriteLine("Instant Extermination");
+            
         }
     }
 }
